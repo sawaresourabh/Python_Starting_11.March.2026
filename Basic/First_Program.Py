@@ -1,1 +1,6 @@
-
+print("Name: Sourabh Ajay Saware.")
+print("Age : 26.5.")
+print("Gender: Male.")
+print("Job Status: Jobless ( Searching )")
+print("Language: Python.")
+print("Start Date: 12 March 2026.")
